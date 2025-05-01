@@ -1,12 +1,10 @@
 # 👋 Hi, I’m @Akriti-Shukla
 
-- 👀 I’m interested in Data Analytics and how data-driven insights can empower better decisions.
+- 👀 I’m a Microsoft Power BI Certified Data Analyst who enjoys documenting her learning journey.
+- 📊 I’ve worked on various analytics projects—check out my repositories to see how I approach problem-solving with data.
 - 🌱 I’m currently learning advanced techniques in SQL, MS Excel, Power BI, and Tableau to explore and visualize real-world datasets.
 - 💡 I love transforming raw data into meaningful stories and building dashboards that speak for themselves.
-- 📊 I’ve worked on various analytics projects—check out my repositories to see how I approach problem-solving with data.
-- 🤝 I’m open to collaboration on data analysis, dashboard building, and storytelling with data.
-
-Let’s connect and learn together!
+- 🔍 I’m actively seeking a data analyst role where I can apply my skills in data analysis, dashboard development, and data storytelling. My GitHub showcases hands-on projects that demonstrate my ability to turn raw data into meaningful insights.
 
 <!---
 Akriti-Shukla/Akriti-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
