@@ -1,4 +1,4 @@
-- Hey! I’m an aspiring Data Analyst with an IT educational background and telecom industry experience with a strong passion for transforming data into actionable insights.
+- Hey! I’m an aspiring Data Analyst with an educational background in IT and telecom industry experience.
 - My GitHub portfolio features end-to-end data analytics projects that reflect real-world business scenarios—from cleaning messy datasets to building interactive dashboards.
 - I approach every project with curiosity and a problem-solving mindset, and I’m actively seeking my first opportunity to apply these skills in a professional setting.
  # [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akriti-shukla//)
