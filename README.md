@@ -1,6 +1,9 @@
-- Hey! I’m an aspiring Data Analyst with an educational background in IT and work experience in the fast-paced telecom industry.
-- My GitHub portfolio features end-to-end data analytics projects that reflect real-world business scenarios—from cleaning messy datasets to building interactive dashboards.
-- I approach every project with curiosity and a problem-solving mindset, and I’m actively seeking my first opportunity to apply these skills in a professional setting.
+Hi there! I'm an aspiring Business Intelligence Data Analyst with a background in IT and over 6 years of work experience in the fast-paced telecom industry.
+- My GitHub portfolio showcases data analytics projects with a strong focus on Power BI and Advanced Excel.
+- From cleaning and transforming raw data to designing interactive dashboards that solve real-world business problems.
+- Each project highlights key skills like DAX, Power Query, data modeling, and report automation in Excel.
+- I enjoy turning messy datasets into clear, actionable insights and am actively seeking opportunities to bring these skills into a professional role.
+
     # [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akriti-shukla//)
 
 <!---
