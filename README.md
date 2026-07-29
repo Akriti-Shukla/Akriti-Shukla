@@ -14,7 +14,9 @@ I'm an **AI Data & Analytics Professional** with 6+ years of experience in the t
 
 📫 **Let's connect and collaborate on AI, Data Analytics, and Business Intelligence!**
 
+
     # [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akriti-shukla//)
+
 
 <!---
 Akriti-Shukla/Akriti-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
